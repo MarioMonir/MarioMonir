@@ -1,7 +1,10 @@
 ## Hi there , I'm Mario
 
+
 - 🔭 I’m currently looking for a job as a Software Engineer
 
+  
+  
 ### Connect with me <span>
 <a href="https://www.linkedin.com/in/mario-monir/">
   <img align="left" alt="Mario's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -31,11 +34,25 @@
 <img height="30" src="https://www.pngkit.com/png/full/225-2254691_9kib-354x415-unnamed-mongodb-logo-svg.png">
 
 </span>
+<br />
+<br />
 
 
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img  width=400  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioMonir&title_color=41B883&text_color=41B883&icon_color=41B883&langs_count=8&layout=compact&border_color=41B883&hide_border=false" />
+      
+  <br />
+<br />
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img   width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=MarioMonir&theme=vue&border=41B883&hide_border=false" alt="zumrudu-anka" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img  width=450 src="https://github-readme-stats.vercel.app/api?username=MarioMonir&show_icons=true&theme=vue&border_color=41B883&hide_border=false" />
+  </a>
 
-
-
+  </a>
+</div>
 
 
 
