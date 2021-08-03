@@ -42,10 +42,10 @@
 
 
 <a>
-  <img width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=MarioMonir&theme=gotham&border=41B883&hide_border=false" alt="Mario" />
+  <img width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=MarioMonir&theme=gotham&border=41B883&hide_border=false" alt="Mario" />
 </a> 
 <a>
-  <img width=350 src="https://github-readme-stats.vercel.app/api?username=MarioMonir&show_icons=true&theme=gotham" alt="MarioMonir" />
+  <img width=450 src="https://github-readme-stats.vercel.app/api?username=MarioMonir&show_icons=true&theme=gotham" alt="MarioMonir" />
 </a> 
 
 <br />
