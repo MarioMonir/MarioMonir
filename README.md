@@ -1,9 +1,11 @@
 ## Hi there , I'm Mario
 
-
-- 🔭 I’m currently looking for a job as a Software Engineer
-
-  
+<div>
+  <span>
+    - 🔭 I’m currently looking for a job as a Software Engineer
+  </span>
+</div>
+  <br/ >
   
 ### Connect with me <span>
 <a href="https://www.linkedin.com/in/mario-monir/">
@@ -48,9 +50,10 @@
 
   <br /><br />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a>
     <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioMonir&layout=compact&theme=gotham" />
   </a>
+  
 </div>
 
 
