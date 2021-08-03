@@ -6,17 +6,13 @@
   </span>
 </div>
  
-<br/ >
   
 ### Connect with me <span>
 <a href="https://www.linkedin.com/in/mario-monir/">
   <img align="left" alt="Mario's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </span>
-
 <br />
-
-####
 
 ### Languages and Tools
 <span>
