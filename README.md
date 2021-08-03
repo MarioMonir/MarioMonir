@@ -39,21 +39,18 @@
 
 
 <div align=center>
+  <a>
+    <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=MarioMonir&theme=gotham" alt="Mario" />
+  </a> 
+  <a>
+    <img width=400 src="https://github-readme-stats.vercel.app/api?username=MarioMonir&show_icons=true&theme=gotham" alt="MarioMonir" />
+  </a> 
 
+  <br /><br />
 
-<a>
-  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=MarioMonir&theme=gotham&border=41B883&hide_border=false" alt="Mario" />
-</a> 
-<a>
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=MarioMonir&show_icons=true&theme=gotham" alt="MarioMonir" />
-</a> 
-
-<br />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioMonir&layout=compact&theme=gotham" />
-</a>
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioMonir&layout=compact&theme=gotham" />
+  </a>
 </div>
 
 
