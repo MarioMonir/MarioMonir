@@ -39,19 +39,21 @@
 
 
 <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img  width=400  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioMonir&title_color=41B883&text_color=41B883&icon_color=41B883&langs_count=8&layout=compact&border_color=41B883&hide_border=false" />
-      
-  <br />
-<br />
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img   width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=MarioMonir&theme=vue&border=41B883&hide_border=false" alt="zumrudu-anka" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img  width=450 src="https://github-readme-stats.vercel.app/api?username=MarioMonir&show_icons=true&theme=vue&border_color=41B883&hide_border=false" />
-  </a>
 
-  </a>
+
+<a>
+  <img width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=MarioMonir&theme=gotham&border=41B883&hide_border=false" alt="Mario" />
+</a> 
+<a>
+  <img width=350 src="https://github-readme-stats.vercel.app/api?username=MarioMonir&show_icons=true&theme=gotham" alt="MarioMonir" />
+</a> 
+
+<br />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioMonir&layout=compact&theme=gotham" />
+</a>
+
 </div>
 
 
