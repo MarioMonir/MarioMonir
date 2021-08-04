@@ -1,10 +1,14 @@
-## Hi there , I'm Mario
+## Hello World 	:v: :technologist:
+
+#### Hi, I'm Mario Monir  <br> I'm in love with the software :technologist:  , how it is designed, built, and how it affects the whole world :computer:  :earth_africa: <br> and , I am wishing to be a part of this effect by writing software that really not a cliche makes the world a better place :hugs:
 
 <div>
   <span>
     - 🔭 I’m currently looking for a job as a Software Engineer
   </span>
 </div>
+ 
+ <img align="right" width=400 src="https://images.pexels.com/photos/5380664/pexels-photo-5380664.jpeg?cs=srgb&dl=pexels-tima-miroshnichenko-5380664.jpg&fm=jpg" />
  
   
 ### Connect with me <span>
